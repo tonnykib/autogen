@@ -167,3 +167,5 @@ wolfram.txt
 
 # DB on disk for TeachableAgent
 tmp/
+
+.fake
